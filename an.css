@@ -1,9 +1,11 @@
 .abouttext {
 
+    font-family: 'Mukta', sans-serif;
     text-align: center;
     padding-left: 10em;
     padding-right: 10em;
 }
+
 .main-row {
     margin: 8%;
     background-color: white;
@@ -29,12 +31,15 @@
     font-style: normal;
     line-height: 2;
 }
-.att .container ul li a{
-font-weight: bold;
+
+.att .container ul li a {
+    font-weight: bold;
 }
-.att .container ul li a:hover{
+
+.att .container ul li a:hover {
     border: gainsboro;
 }
+
 .cli-img {
     width: 100%;
     height: 100%;
@@ -50,6 +55,7 @@ font-weight: bold;
     text-align: center;
     padding-top: 2em;
 }
+
 .card a button:hover {
     letter-spacing: 3px;
 }
