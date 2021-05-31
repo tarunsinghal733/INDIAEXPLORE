@@ -3,10 +3,7 @@
 color: black;
 }
 .aboutimage {
-    padding-top: 4em;
-    padding-left: 10em;
-    padding-right: 10em;
-    padding-bottom: 4em;
+
 }
 
 .abouttext {
@@ -17,14 +14,13 @@ text-align: center;
 }
 
 .cen {
-    font-family: 'Lato', sans-serif;
+
     font-style: normal;
-    text-align: center;
-    padding-top: 2em;
+
 }
 
 .his {
-    font-family: 'Mukta', sans-serif;
+
     font-style: normal;
     text-align: center;
     padding-top: 1em;
