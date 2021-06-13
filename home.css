@@ -127,12 +127,15 @@ html {
 }
 
 .our-webcoderskull .cnt-block .follow-us li .fa {
-    font-size: 24px;
+    font-size: 50px;
     color: #767676;
+ transform: scale(0.5);
+transition: 0.5s;
 }
 
 .our-webcoderskull .cnt-block .follow-us li .fa:hover {
     color: #025a8e;
+    transform: scale(0.5) translateY(-15px);
 }
 
 .exploreimg {
